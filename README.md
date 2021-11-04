@@ -3,9 +3,6 @@ Hello ! Eu sou o Marcos Lima
 
 - 🔭 Hoje trabalho com Infraestrutura 
 - 🌱 Estou estudando Front-end e Back-end 
-- 😄 Pronomes ele/dele
-
-
 
 <div>
 <a href="https://github.com/mvrudies">
@@ -32,7 +29,9 @@ Hello ! Eu sou o Marcos Lima
      <a href="https://www.twitch.tv/mvrudies"target ="_black"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"target="_blank"> </a>
      <a href="mailto:marcos.rudies@live.com"target="_black"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"target="_blanck"> </a>
     
+![Snake animation](https://github.commvrudies/mvrudies/blob/output/github-contribution-grid-snake.svg)
+    
   </div>  
     
-![Snake animation](https://github.com/mvrudies/mvrudies/blob/output/github-contribution-grid-snake.svg)
+
 

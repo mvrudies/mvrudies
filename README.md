@@ -34,5 +34,5 @@ Hello ! Eu sou o Marcos Lima
     
   </div>  
     
-
+![Snake animation](https://github.com/mvrudies/mvrudies/blob/output/github-contribution-grid-snake.svg)
 

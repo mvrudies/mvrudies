@@ -16,10 +16,11 @@
   <img aling = "center" alt = "rudiesJs" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img aling = "center" alt = "rudiesNode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img aling = "center" alt = "rudiesex" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>
+  <img aling = "center" alt = "rudiesRe" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">"/>
   <img aling = "center" alt = "rudiesPy" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img aling = "center" alt = "rudiesPy" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
   <img aling = "center" alt = "rudiesPs" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
-  <img aling = "center" alt = "rudiesRe" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">"/>
+ 
   ##
   
 <div>

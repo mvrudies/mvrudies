@@ -1,8 +1,11 @@
 <h1>Olá!  Eu sou o Marcos Lima</h1>
 
 
-- 🔭 Hoje trabalho com Infraestrutura
-- 🌱 Estou estudando Front-end e Back-end  
+- 🖥️ Hoje trabalho com Infraestrutura e Suporte
+- 🧑🏾‍🎓 Estou estudando Front-end e Back-end 
+- ⚛️🐍 O Meu plano é trabalhar como Desenvolvedor Web Full Stack Jr.  React  Python
+
+✊🏿 Black Lives Matter
 
 <div align="center">
 <a href="https://github.com/mvrudies">
@@ -21,7 +24,7 @@
   <img aling = "center" alt = "rudiesMy" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img aling = "center" alt = "rudiesPy" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
   <img aling = "center" alt = "rudiesPs" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
-  ##
+  
   
 <div>
     <a href="https://www.linkedin.com/in/marcosv-rlima/" target ="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>

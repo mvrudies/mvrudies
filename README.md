@@ -2,8 +2,8 @@
 
 
 - 🖥️ Hoje trabalho com Infraestrutura e Suporte
-- 🧑🏾‍🎓 Estou estudando Front-end e Back-end 
-- ⚛️🐍 O Meu plano é trabalhar como Desenvolvedor Web Full Stack Jr.  React  Python
+- 🧑🏾‍🎓 Estou estudando Front-end, Back-end e DevOps 
+- ⚛️🐍 O Meu plano é trabalhar como Desenvolvedor Web Full Stack Jr, ou analista de Devops !
 
 ✊🏿 Black Lives Matter
 
